@@ -1,4 +1,9 @@
-Export/Import Realm through cmd:
+# Start Service
+```bash
+docker-compose up -d
+```
+
+# Export/Import Realm through cmd:
 [url]( https://www.keycloak.org/server/importExport)
 
 - go inside container `keycloak_web` 
